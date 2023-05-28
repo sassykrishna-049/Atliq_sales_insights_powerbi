@@ -32,3 +32,7 @@
 and transactions.market_code="Mark001";`
 
 
+
+## Data Modelling 
+ We connect the data tables that we had using the star schema
+
