@@ -19,5 +19,14 @@ Sales Director of the Atliq Hardware, decided to build a PowerBI Dashboard for c
 
 ![Alt text](https://github.com/sassykrishna-049/Atliq_sales_insights_powerbi/blob/main/AIMS.jpg)
 
+## Steps Followed in this project
+
+1. Performed a High level analysis of data in SQL to get better understanding over the data.
+2. Connected the SQL data set to PowerBI.
+3. Performed ETL and data cleaning on the imported data.
+4. In the currency there were two types of currencies i.e INR and US Dollar, in transactions, performed currency conversion to make all the currency type same.
+5. Created measure as needs and used them for creating visuals in PowerBi.
+6. After the initial report reviewed by the stakeholders, made changes to the report based on the review got.
+
 
 
