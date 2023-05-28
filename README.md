@@ -28,5 +28,11 @@ Sales Director of the Atliq Hardware, decided to build a PowerBI Dashboard for c
 5. Created measure as needs and used them for creating visuals in PowerBi.
 6. After the initial report reviewed by the stakeholders, made changes to the report based on the review got.
 
+## Data Transformation Performed
+1. In the market table, "zones" column , we removed the null values
+2. In the Transactions table, there were some garbage values(0,-1) in the " sales_amount" column , so we had to remove them.
+3. In the Transactions table, " currency" column there were 2 tyoes of currency so we converted them to INR.
+4. 
+
 
 
