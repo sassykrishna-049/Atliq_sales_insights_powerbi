@@ -18,7 +18,7 @@ Sales Director of the Atliq Hardware, decided to build a PowerBI Dashboard for c
 ## AIMS(Advance Industrial Mailing System) Grid
 [AIMS grid](https://www.linkedin.com/pulse/aims-grid-bulls-eye-project-management-tool-data-analysts-ramesh/) is a very useful tool to improve Project Management skills for Project managers, Team Leaders etc. It helps to clarify a task and keep the process simple. AIMS grid presents a project in a very concise manner.
 
-![Alt text](https://github.com/sassykrishna-049/Atliq_sales_insights_powerbi/blob/main/AIMS.jpg)
+![Alt text](https://github.com/sassykrishna-049/Atliq_sales_insights_powerbi/blob/main/AIMS/AIMS.jpg)
 
 ## Steps Followed in this project
 
