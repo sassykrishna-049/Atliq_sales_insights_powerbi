@@ -35,4 +35,6 @@ and transactions.market_code="Mark001";`
 
 ## Data Modelling 
  We connect the data tables that we had using the star schema
+ ![Alt Text](https://github.com/sassykrishna-049/Atliq_sales_insights_powerbi/blob/main/AIMS/Data%20Model.png)
+
 
