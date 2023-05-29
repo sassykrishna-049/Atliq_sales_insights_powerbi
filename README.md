@@ -6,6 +6,7 @@ This is a project I replicated from Codebasics PowerBI Channel.You can find the 
 
 [Live Report Link]()
 
+
 ## Problem Statement
 AtliQ Hardware is a business with numerous branches across India that provides computer hardware & peripheral products to its customers. Bhavin Patel, company's sales director is having a difficult time figuring out how the company is doing and what all of its problems are.Sales are not increasing as anticipated and are already decreasing. Additionally, as a result of human nature, if the sales director calls the regional managers to inquire about the state of the market and sales, they tend to sugarcoat the information and provide a tons of Excel files rather than providing the straight story, which only served to aggravate the sales director.
 The obvious cause of the annoyance is that people find it uncomfortable to read numbers from Excel files.
