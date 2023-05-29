@@ -32,7 +32,7 @@ Sales Director of the Atliq Hardware, decided to build a PowerBI Dashboard for c
 ## Data Transformation Performed
 1. In the market table, "zones" column , we removed the null values
 2. In the Transactions table, there were some garbage values(0,-1) in the " sales_amount" column , so we had to remove them.
-3. In the Transactions table, " currency" column there were 2 tyoes of currency so we converted them to INR.
+3. In the Transactions table, " currency" column there were 2 types of currency so we converted them to INR.
 4. Also removed the duplicate entries from the transaction table
 
 ## Final Result 
